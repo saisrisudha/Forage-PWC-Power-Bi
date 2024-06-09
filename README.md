@@ -1,10 +1,9 @@
 # Forage-PWC-Power-Bi
 Forage PWC Power Bi
 
-
-![Forge-Certificate](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/7a85a3c4-02e0-49a9-8a5e-078a2c86fde6)
-![Screenshot 2024-06-09 225042](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/9165dbba-901e-4537-9973-c0eb894761cc)
-![Screenshot 2024-06-09 225208](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/40ae8cec-61c7-4a88-ae4e-542efd69697b)
-![Screenshot 2024-06-09 225253](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/1adad03d-be88-4b51-8542-4b1d3f4f9841)
-![Screenshot 2024-06-09 225346](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/2b5ea238-0677-47f9-8ed4-14517991268e)
-![Screenshot 2024-06-09 225424](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/1b308d19-637a-445c-b10e-606b8e2b879d)
+![Forge-Certificate](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/9e45afb0-dfe1-4731-9be7-48aaf102aa58)
+![Screenshot 2024-06-09 225042](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/b8c7394a-e1cd-44dc-af14-18d075ac6da6)
+![Screenshot 2024-06-09 225208](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/c3e73a09-5857-43a8-b524-9db12c32b830)
+![Screenshot 2024-06-09 225253](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/957ac4fd-1c00-42e1-bd49-c12db618cfde)
+![Screenshot 2024-06-09 225346](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/2bd09bdc-77df-4425-a0c6-319be10fe72a)
+![Screenshot 2024-06-09 225424](https://github.com/saisrisudha/Forage-PWC-Power-Bi/assets/120887265/35a55745-8b65-41a0-bf2e-a77060e449f9)
